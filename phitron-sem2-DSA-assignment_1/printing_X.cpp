@@ -4,9 +4,6 @@ i have to print a bis X shape pattern for the given size n(row=n,col=n)
 \ /
  X
 / \
-observation:
-
-  
 */
 
 #include<bits/stdc++.h>
