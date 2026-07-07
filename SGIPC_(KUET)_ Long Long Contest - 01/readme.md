@@ -18,7 +18,7 @@ Result
 
 - ✅ Solved 29/29 problems.
 - ✅ All accepted solutions are included in this repository.
-- 🤧it takes almost 10-11hour for me to solve 
+- 🤧it takes almost 14-15hour(3 days) for me to solve
 
 Purpose
 
